@@ -1,4 +1,4 @@
-[![Header](assets/header.png "Header")](https://www.kaevin.io/)
+<img src="assets/header.png">(https://www.kaevin.io/)
 
 # Hi there! <img src="assets/wave.gif" width="30">
 
