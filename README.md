@@ -1,4 +1,4 @@
-![Header](assets/header.png)(https://www.kaevin.io/)
+![Header](assets/headerImage.png)(https://www.kaevin.io/)
 
 # Hi there! <img src="assets/wave.gif" width="30">
 
