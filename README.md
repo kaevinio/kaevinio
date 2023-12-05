@@ -26,4 +26,4 @@ Find my portfolio here: www.kaevin.io 👨
 
 ### 📱 Projects
 
-[<img src="/assets/Preppy.png" alt="Preppy" width="50%">](https://www.kaevin.io/projects/preppy/preppy)[<img src="/assets/PawTime.png" alt="PawTime" width="50%">](https://www.kaevin.io/projects/pawtime/pawtime)[<img src="/assets/2Spend.png" alt="2Spend" width="50%">](https://www.kaevin.io/projects/2spend/2spend)[<img src="/assets/Fit Captl.png" alt="Fit Captl" width="50%">](https://www.kaevin.io/projects/fitcaptl/fit-captl)
+[<img src="/assets/Preppy.png" alt="Preppy" width="50%">](https://www.kaevin.io/projects/preppy/preppy) [<img src="/assets/PawTime.png" alt="PawTime" width="50%">](https://www.kaevin.io/projects/pawtime/pawtime) [<img src="/assets/2Spend.png" alt="2Spend" width="50%">](https://www.kaevin.io/projects/2spend/2spend) [<img src="/assets/Fit Captl.png" alt="Fit Captl" width="50%">](https://www.kaevin.io/projects/fitcaptl/fit-captl)
