@@ -1,13 +1,13 @@
 ![Header](assets/headerImage.png)
 
-# Hi there! <img src="assets/wave.gif" width="30">
+## Hi there! <img src="assets/wave.gif" width="30">
 
 My name is Kaevin and I'm a Digital Product Designer and iOS Developer with 7+ years of experience designing and building apps. I'm from Germany, living in Berlin.
 
-Find my portfolio here: www.kaevin.io 👨
+You can find my portfolio here: www.kaevin.io 👨
 
 
-### 🔧 Technologies & Skills
+#### 🔧 Technologies & Skills
 
 ![](https://img.shields.io/badge/OS-iOS-informational?logo=Apple&logoColor=000000&labelColor=ffffff&color=007fff)
 ![](https://img.shields.io/badge/OS-iPadOS-informational?logo=Apple&logoColor=000000&labelColor=ffffff&color=007fff)
@@ -24,6 +24,6 @@ Find my portfolio here: www.kaevin.io 👨
 
 
 
-### 📱 Projects
+#### 📱 Projects
 
-[<img src="/assets/Preppy.png" alt="Preppy" width="50%">](https://www.kaevin.io/projects/preppy/preppy)[<img src="/assets/PawTime.png" alt="PawTime" width="50%">](https://www.kaevin.io/projects/pawtime/pawtime)[<img src="/assets/2Spend.png" alt="2Spend" width="50%">](https://www.kaevin.io/projects/2spend/2spend)[<img src="/assets/Fit Captl.png" alt="Fit Captl" width="50%">](https://www.kaevin.io/projects/fitcaptl/fit-captl)
+[<img src="/assets/Preppy.png" alt="Preppy" width="25%">](https://www.kaevin.io/projects/preppy/preppy)[<img src="/assets/PawTime.png" alt="PawTime" width="25%">](https://www.kaevin.io/projects/pawtime/pawtime)[<img src="/assets/2Spend.png" alt="2Spend" width="25%">](https://www.kaevin.io/projects/2spend/2spend)[<img src="/assets/Fit Captl.png" alt="Fit Captl" width="25%">](https://www.kaevin.io/projects/fitcaptl/fit-captl)
