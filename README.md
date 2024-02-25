@@ -1,4 +1,4 @@
-![Header](assets/headerImage.png)
+![Header](assets/header.png)
 
 # Hi there! <img src="assets/wave.gif" width="30">
 
