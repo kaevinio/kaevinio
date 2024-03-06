@@ -2,11 +2,6 @@
 
 # Hi there! <img src="assets/wave.gif" width="30">
 
-My name is Kaevin and I'm a Digital Product Designer and iOS Developer with 7+ years of experience designing and building apps. I'm from Germany, living in Berlin.
-
-You can find my portfolio here: www.kaevin.io 👨
-
-
 ### 🔧 Technologies & Skills
 
 ![](https://img.shields.io/badge/OS-iOS-informational?logo=Apple&logoColor=000000&labelColor=ffffff&color=007fff)
